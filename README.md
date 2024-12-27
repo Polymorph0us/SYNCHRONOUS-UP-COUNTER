@@ -46,6 +46,10 @@ Developed by: D KEERTHAN
 
 RegisterNumber: 24901007
 
+**TRUTH TABLE**
+
+![image](https://github.com/user-attachments/assets/38fcae64-2b88-4d3c-9484-24db7b0842f1)
+
 **RTL LOGIC UP COUNTER**
 
 ![image](https://github.com/user-attachments/assets/4e2be90a-e8a8-46d8-9266-377fd624dd16)
